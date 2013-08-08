@@ -10,7 +10,7 @@
 <tr><th><a href="http://shopping.naver.com/)">naver购物</a></th><td><a href="dist/naver.md">H5版&PC版翻译</a></td><td>韩国第一大入口网站，在韩国搜索市场占据70%份额购物网站</td></tr>
 <tr><th><a href="ttp://shopping.daum.net/">naver购物</a></th><td><a href="dist/daum.md">H5版&PC版翻译</a></td><td>韩国著名门户网站</td></tr>
 <th><a href="http://www.gmarket.co.kr/">Gmarket</a></th><td><a href="dist/gmarket.md">H5版&PC版翻译</a></td><td>韩国著名购物网站</td></tr>
-<tr><th><a href="http://www.basket.co.kr/">basket 比价购物</a></th><td><a href="dist/basket.md">PC版翻译</a></td><td>韩国专业比价购物网站</td></tr>
+<tr><th><a href="http://www.basket.co.kr/">basket 比价购物</a></th><td><a href="dist/basket.md">H5版&PC版翻译</a></td><td>韩国专业比价购物网站</td></tr>
 <tr><th><a href="http://www.emart.com/">emart mall</a></th><td><a href="dist/emart.md">H5版&PC版翻译</a></td><td>专营食品和家居用品，相当于国内的1号店</td></tr>
 <tr><th>11ST</th><td>浅析(upgrade your life)</td></tr>
 <tr><th>aution옥션</th><td>浅析</td></tr>
