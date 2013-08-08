@@ -6,13 +6,17 @@
 
 <table>
 <tr><th>网站名称</th><th>浅析</th><th>网站简介</th></tr>
+
+<tr><th>naver购物</th><td><a href="#">mobile端</a></td><td>韩国第一大入口网站，在韩国搜索市场占据70%份额</td></tr>
+<tr><th>daum购物</th><td>mobile端</td></tr>
+<tr><th>Gmarket</th><td>浅析</td></tr>
 <tr><th><a href="http://shopping.naver.com/)">naver购物</a></th><td><a href="dist/naver.md">H5版&PC版翻译</a></td><td>韩国第一大入口网站，在韩国搜索市场占据70%份额购物网站</td></tr>
-韩国著名门户网站<tr>
+<tr><th><a href="ttp://shopping.daum.net/">naver购物</a></th><td><a href="dist/daum.md">H5版&PC版翻译</a></td><td>韩国著名门户网站</td></tr>
 <th><a href="http://www.gmarket.co.kr/">Gmarket</a></th><td><a href="dist/gmarket.md">H5版&PC版翻译</a></td><td>韩国著名购物网站</td></tr>
 <tr><th><a href="http://www.basket.co.kr/">basket 比价购物</a></th><td><a href="dist/basket.md">PC版翻译</a></td><td>韩国专业比价购物网站</td></tr>
 <tr><th><a href="http://www.emart.com/">emart mall</a></th><td><a href="dist/emart.md">H5版&PC版翻译</a></td><td>专营食品和家居用品，相当于国内的1号店</td></tr>
-<tr><th>11ST</th><td>(upgrade your life)</td></tr>
-<tr><th>aution옥션</th><td></td></tr>
+<tr><th>11ST</th><td>浅析(upgrade your life)</td></tr>
+<tr><th>aution옥션</th><td>浅析</td></tr>
 <tr><th><a href="http://www.gsshop.com/index.gs">GS SHOP</a></th><td>PC首页支持宽窄屏响应</td></tr>
 <tr><td><a href="http://www.nsmall.com/">NS홈쇼핑</a></td><td><a href="nswall.md">pc-首页</a><a href="srp.md">pc-srp</a><a href="detail.md">pc-detail</a></td></tr>
 <tr><th><a href="http://www.coupang.com/">coupang</a></th><td>浅析</td><td>韩国团购网站(color your days!)</td></tr>
