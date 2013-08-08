@@ -6,7 +6,7 @@
 
 <table>
 <tr><th>网站名称</th><th>浅析</th><th>网站简介</th></tr>
-<tr><th><a href="http://www.basket.co.kr/">basket 比价购物</a></th><a href="dist/basket.md">PC版&H5版翻译</a><td></td></tr>
+<tr><th><a href="http://www.basket.co.kr/">basket 比价购物</a></th><td><a href="dist/basket.md">PC版&H5版翻译</a></td><td>比价购物网站</td></tr>
 <tr><th>naver购物</th><td><a href="#">mobile端</a></td><td>韩国第一大入口网站，在韩国搜索市场占据70%份额</td></tr>
 <tr><th>daum购物</th><td>mobile端</td></tr>
 <tr><th>Gmarket</th><td>浅析</td></tr>
