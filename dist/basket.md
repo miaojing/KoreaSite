@@ -1,23 +1,4 @@
-# basket 比价购物首页
-[pc首页链接](http://www.basket.co.kr/html/main.html)
-
-![basket](img/basketpcindex1.png)  
-![basket](img/basketpcindex2.png)    
-![basket](img/basketpcindex3.png)  
-
-## pc srp页  
-[pc srp链接](http://shopping.basket.co.kr/shoppingsearch/listSearchMain.do?keyword=%25EC%258A%25A4%25EC%25BB%25A4%25ED%258A%25B8)
-
-![basket](img/basketpcsrp1.png)  
-
-# pc detail页面
-[pc detail链接](http://www.basket.co.kr/html/main.html)
-
-![basket](img/basketpcdetail1.png)  
-![basket](img/basketpcdetail2.png)  
-![basket](img/basketpcdetail3.png)  
-![basket](img/basketpcdetail4.png)  
-![basket](img/basketpcdetail5.png)  
+# basket 比价购物网站
 
 ## H5 首页
 [H5 index链接](http://m.basket.co.kr/mobile/contents/shopping/)
@@ -37,5 +18,24 @@
 
 ![basket](img/basketh5detail1.png)  
 ![basket](img/basketh5detail2.png)  
-![basket](img/basketh5detail3.png)  
-   
+![basket](img/basketh5detail3.png)    
+
+[pc首页链接](http://www.basket.co.kr/html/main.html)
+
+![basket](img/basketpcindex1.png)  
+![basket](img/basketpcindex2.png)    
+![basket](img/basketpcindex3.png)  
+
+## pc srp页  
+[pc srp链接](http://shopping.basket.co.kr/shoppingsearch/listSearchMain.do?keyword=%25EC%258A%25A4%25EC%25BB%25A4%25ED%258A%25B8)
+
+![basket](img/basketpcsrp1.png)  
+
+# pc detail页面
+[pc detail链接](http://www.basket.co.kr/html/main.html)
+
+![basket](img/basketpcdetail1.png)  
+![basket](img/basketpcdetail2.png)  
+![basket](img/basketpcdetail3.png)  
+![basket](img/basketpcdetail4.png)  
+![basket](img/basketpcdetail5.png)  
