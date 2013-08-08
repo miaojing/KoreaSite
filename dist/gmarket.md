@@ -31,4 +31,4 @@ gmarkket
 [pc srp链接](http://shopping.gmarket.com/search/all_search.nhn?query=%EC%8A%A4%EC%BB%A4%ED%8A%B8&cat_id=&frm=http://search.gmarket.co.kr/search.aspx?selecturl=total&sheaderkey=&SearchClassFormWord=goodsSearch&keywordOrg=camera&keywordCVT=smart+camera%2Cpoe+ip+camera%2Ccctv+camera&keywordCVTi=1&keyword=camera&x=0&y=0)
 
 # pc detail页面
-[pc detail链接](http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=206077100&pos_shop_cd=SH&pos_class_cd=111111111&pos_class_kind=T&keyword_order=camera&keyword_seqno=3216958914&search_keyword=camera
+[pc detail链接](http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=206077100&pos_shop_cd=SH&pos_class_cd=111111111&pos_class_kind=T&keyword_order=camera&keyword_seqno=3216958914&search_keyword=camera)
