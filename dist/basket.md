@@ -8,7 +8,7 @@
 ## pc srp页  
 [pc srp链接](http://shopping.basket.co.kr/shoppingsearch/listSearchMain.do?keyword=%25EC%258A%25A4%25EC%25BB%25A4%25ED%258A%25B8)
 
-![basket](img/basketsrp1.png)  
+![basket](img/basketpcsrp1.png)  
 
 # pc detail页面
 [pc detail链接](http://www.basket.co.kr/html/main.html)
