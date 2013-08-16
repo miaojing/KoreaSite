@@ -14,14 +14,14 @@
 ## 其他网站
 <table>
 <tr><th>名称<th></th><th>备注</th></tr>
-<tr><th><a href="http://www.11st.co.kr/">11ST</a></th><td></td><td>(upgrade your life)</td></tr>
-<tr><th><a href="http://www.auction.co.kr/">aution옥션</a></th><td></td><td></td></tr>
-<tr><th><a href="http://www.gsshop.com/index.gs">GS SHOP</a></th><td></td><td>PC首页支持宽窄屏响应</td></tr>
-<tr><td><a href="http://www.nsmall.com/">NS홈쇼핑</a></td><td></td><td></td></tr>
-<tr><td><a href="http://www.akmall.com/">AKmall</a></td><td></td><td></td></tr>
-<tr><td><a href="http://www.lotteimall.com/">乐天mall</a></td><td></td><td></td></tr>
-<tr><td><a href="http://www.interpark.com/">interpark</a></td><td></td><td></td></tr>
-<tr><th><a href="http://www.coupang.com/">coupang</a></th><td></td><td>韩国团购网站(color your days!)</td></tr>
+<tr><th><a href="http://www.11st.co.kr/">11ST</a></th><td>(upgrade your life)</td></tr>
+<tr><th><a href="http://www.auction.co.kr/">aution옥션</a></th><td></td></tr>
+<tr><th><a href="http://www.gsshop.com/index.gs">GS SHOP</a></th><td>PC首页支持宽窄屏响应</td></tr>
+<tr><td><a href="http://www.nsmall.com/">NS홈쇼핑</a></td><td></td></tr>
+<tr><td><a href="http://www.akmall.com/">AKmall</a></td><td></td></tr>
+<tr><td><a href="http://www.lotteimall.com/">乐天mall</a></td><td></td></tr>
+<tr><td><a href="http://www.interpark.com/">interpark</a></td><td></td></tr>
+<tr><th><a href="http://www.coupang.com/">coupang</a></th><td>韩国团购网站(color your days!)</td></tr>
 </table>
 
 # 小评下 
