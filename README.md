@@ -13,8 +13,9 @@
 
 ## 其他网站
 <table>
+<tr>名称<th></th><th>备注</th></tr>
 <tr><th><a href="http://www.11st.co.kr/">11ST</a></th><td></td><td>(upgrade your life)</td></tr>
-<tr><th><a href="http://www.auction.co.kr/">aution옥션</a></th><td>暂无</td><td></td></tr>
+<tr><th><a href="http://www.auction.co.kr/">aution옥션</a></th><td></td><td></td></tr>
 <tr><th><a href="http://www.gsshop.com/index.gs">GS SHOP</a></th><td></td><td>PC首页支持宽窄屏响应</td></tr>
 <tr><td><a href="http://www.nsmall.com/">NS홈쇼핑</a></td><td></td><td></td></tr>
 <tr><td><a href="http://www.akmall.com/">AKmall</a></td><td></td><td></td></tr>
