@@ -10,7 +10,7 @@
 <tr><th>Gmarket</th><td><a href="dist/gmarket.md">H5版&PC版翻译</a></td><td>韩国最大的综合购物网站</td><td></td></tr>
 <tr><th>basket 比价购物</th><td><a href="dist/basket.md">H5版&PC版翻译</a></td><td>韩国专业比价购物网站</td><td>h5版自适应宽度，引入backbone view渲染view，router没用，非webapp，native版直接嵌h5版</td></tr>
 <tr><th>emart mall</th><td><a href="dist/emartmall.md">H5版&PC版翻译</a></td><td>专营食品和日用品，类似国内的1号店</td><td>h5版宽度自适应，类webapp但还是有差距，用cookie记录上一次的tab，汗！这个native也是嵌h5页面，设计得大气，能弥补点页面反应不流畅的问题:)</td></tr>
-<tr><th><a href="http://www.11st.co.kr/">11ST</a></th><td>浅析(upgrade your life)</td><td></td></tr>
+<tr><th><a href="http://www.11st.co.kr/">11ST</a></th><td></td><td>(upgrade your life)</td></tr>
 <tr><th><a href="http://www.auction.co.kr/">aution옥션</a></th><td>暂无</td><td></td></tr>
 <tr><th><a href="http://www.gsshop.com/index.gs">GS SHOP</a></th><td></td><td>PC首页支持宽窄屏响应</td></tr>
 <tr><td><a href="http://www.nsmall.com/">NS홈쇼핑</a></td><td></td><td></td></tr>
