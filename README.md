@@ -13,7 +13,7 @@
 
 ## 其他网站
 <table>
-<tr><th>名称<th></th><th>备注</th></tr>
+<tr><th>名称</th><th>备注</th></tr>
 <tr><th><a href="http://www.11st.co.kr/">11ST</a></th><td>(upgrade your life)</td></tr>
 <tr><th><a href="http://www.auction.co.kr/">aution옥션</a></th><td></td></tr>
 <tr><th><a href="http://www.gsshop.com/index.gs">GS SHOP</a></th><td>PC首页支持宽窄屏响应</td></tr>
