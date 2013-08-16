@@ -31,6 +31,7 @@
 ## pc srp页  
 [pc srp链接](http://shopping.daum.net/#!search/%EC%8A%A4%EC%BB%A4%ED%8A%B8/tab:total&page:1)
 
-# pc detail页面 iframe第三方的页面
-[pc detail链接](http://shopping.daum.net/go.daum?pkey=8Pzo0TM1ytl8FlUoupJAmZj6egLH.s7U3DTr.9ERec_s5LC46KQ.DfyiOVCHL324UGeqnEPn8z-pst6zcLXaE1.RCqAgX5DGhaitjpcC25T5EUjSPc7YbpdhQV_9vdbdhZmWXfaifh6O8-8uLxXvUXg-jdg00&val=FKA00_zKVYha5tlhVCi9d1S6TsvdXxha-kJIP9GfsOk12jIP3C-KxP8e-OLLBQFnFN27WlaZkvCqD-V6OWvZ_ePQAC2k-Brgl.PYcFx5tQ69eKNPCH5jJQxPSuw00&search=OBL58v2oJJHglUrGnvXtXainQHkJt4dyt82Dwk-6KMHfwijQcUuScWJbOOTKtdtpLBLOo6TyggXZk9xTVqBHrKBM6BTw.alh339Q1t_.NC.TB-OTPVHdZe_D9ybs9-jpaB9Ct)
+# pc detail页面 
+[pc 比价页面](http://shopping.daum.net/product/#!/A939347182/cateid:101107101110&pricegroupid:)
+[pc detail链接 iframe第三方的页面](http://shopping.daum.net/go.daum?pkey=8Pzo0TM1ytl8FlUoupJAmZj6egLH.s7U3DTr.9ERec_s5LC46KQ.DfyiOVCHL324UGeqnEPn8z-pst6zcLXaE1.RCqAgX5DGhaitjpcC25T5EUjSPc7YbpdhQV_9vdbdhZmWXfaifh6O8-8uLxXvUXg-jdg00&val=FKA00_zKVYha5tlhVCi9d1S6TsvdXxha-kJIP9GfsOk12jIP3C-KxP8e-OLLBQFnFN27WlaZkvCqD-V6OWvZ_ePQAC2k-Brgl.PYcFx5tQ69eKNPCH5jJQxPSuw00&search=OBL58v2oJJHglUrGnvXtXainQHkJt4dyt82Dwk-6KMHfwijQcUuScWJbOOTKtdtpLBLOo6TyggXZk9xTVqBHrKBM6BTw.alh339Q1t_.NC.TB-OTPVHdZe_D9ybs9-jpaB9Ct)
 
