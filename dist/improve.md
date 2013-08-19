@@ -25,13 +25,13 @@ pc版/简易版/客户端/
 [auction也是](http://www.auction.co.kr/?redirect=1)
 [乐天首页的轮播图也不错](http://www.lotteimall.com/main/viewMain.lotte?dpml_no=1)
 
-5. 是否应该iframe第三方网站，曾经etao也不想跳到第三方网站，期望可以搞个etao的标准头然后iframe嵌入各个网站
-当时反对的原因：强制加上去太山寨，在iframe内部影响页面内部跳转和某些功能，第三方网站是可以防止被iframe的
-
-可是[daum](http://shopping.daum.net/go.daum?pkey=8Pzo0TM1ytl8FlUoupJAmZj6egLH.s7U3DTr.9ERec_s5LC46KQ.DfyiOVCHL324UGeqnEPn8z-pst6zcLXaE1.RCqAgX5DGhaitjpcC25T5EUjSPc7YbpdhQV_9vdbdhZmWXfaifh6O8-8uLxXvUXg-jdg00&val=FKA00_zKVYha5tlhVCi9d1S6TsvdXxha-kJIP9GfsOk12jIP3C-KxP8e-OLLBQFnFN27WlaZkvCqD-V6OWvZ_ePQAC2k-Brgl.PYcFx5tQ69eKNPCH5jJQxPSuw00&search=OBL58v2oJJHglUrGnvXtXainQHkJt4dyt82Dwk-6KMHfwijQcUuScWJbOOTKtdtpLBLOo6TyggXZk9xTVqBHrKBM6BTw.alh339Q1t_.NC.TB-OTPVHdZe_D9ybs9-jpaB9Ct)还是加了：
+5. 是否应该iframe第三方网站，曾经etao也不想跳到第三方网站，期望可以搞个etao的标准头然后iframe嵌入各个网站;当时反对的原因：强制加上去太山寨，在iframe内部影响页面内部跳转和某些功能，第三方网站是可以防止被iframe的;可是[daum](http://shopping.daum.net/go.daum?pkey=8Pzo0TM1ytl8FlUoupJAmZj6egLH.s7U3DTr.9ERec_s5LC46KQ.DfyiOVCHL324UGeqnEPn8z-pst6zcLXaE1.RCqAgX5DGhaitjpcC25T5EUjSPc7YbpdhQV_9vdbdhZmWXfaifh6O8-8uLxXvUXg-jdg00&val=FKA00_zKVYha5tlhVCi9d1S6TsvdXxha-kJIP9GfsOk12jIP3C-KxP8e-OLLBQFnFN27WlaZkvCqD-V6OWvZ_ePQAC2k-Brgl.PYcFx5tQ69eKNPCH5jJQxPSuw00&search=OBL58v2oJJHglUrGnvXtXainQHkJt4dyt82Dwk-6KMHfwijQcUuScWJbOOTKtdtpLBLOo6TyggXZk9xTVqBHrKBM6BTw.alh339Q1t_.NC.TB-OTPVHdZe_D9ybs9-jpaB9Ct)还是加了：
 [basket](http://www.basket.co.kr)也加了，daum是直接iframe第三方网站，而basket是和所有第三方网站合作，提供了一个basket的header通过cookie标记是否加basket头部，可以看得出来basket和第三方网站的合作都是深度合作。
 
 6. [详情页太长，加个锚点分段定位](http://www.interpark.com/product/MallDisplay.do?_method=detail&sc.shopNo=0000100000&sc.dispNo=001206&evtNo=130084&sc.prdNo=1767882770)
 ![markdetail](img/markdetail.tiff)
 
 7. [srp左右翻页](http://www.ellotte.com/search/search.total.ldpm?currentPage=1&rowSperpage=30&searchTermAll=%EC%BF%A0%EC%95%84%EC%B9%98%EB%A7%88&searchTermPre=&searchTermExc=&searchTermOri=%EC%BF%A0%EC%95%84%EC%B9%98%EB%A7%88&orderType=1&brandAll=&colorAll=&mCat=&lCat=S01A05&sprice=&eprice=&holdKwd=y&_cloc=&searchTerm=%EC%BF%A0%EC%95%84%EC%B9%98%EB%A7%88#price_color_tit)
+
+8.手机版srp上添加是否支持移动购买的筛选
+
