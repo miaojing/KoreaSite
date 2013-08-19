@@ -6,7 +6,7 @@
 <tr><th>网站名称</th><th>浅析</th><th>网站简介</th><th>各终端</th></tr>
 <tr><th>naver购物</th><td><a href="dist/naver.md">H5&PC</a></td><td>韩国第一大入口网站，在韩国搜索市场占据70%份额购物网站</td><td>pc版本支持宽窄屏的响应（990&1200），H5版本自适应,pc版本不支持触屏，移动端（含平板和手机）的推荐的h5版本,native版的主体内容直接嵌h5页面</td></tr>
 <tr><th>daum购物</th><td><a href="dist/daum.md">H5&PC</a></td><td>韩国最大门户网站之一 life on daum 购物频道感觉一般</td><td>native版的主体内容直接嵌入h5页面，h5版响应得有特色</td></tr>
-<tr><th>Gmarket</th><td><a href="dist/gmarket.md">H5&PC</a></td><td>韩国最大的综合购物网站</td><td></td></tr>
+<tr><th>Gmarket</th><td><a href="dist/gmarket.md">H5&PC</a></td><td>韩国最大的综合购物网站</td><td>native直接嵌h5页面,h5页面自适应宽度，pc版独立一个版本</td></tr>
 <tr><th>basket 比价购物</th><td><a href="dist/basket.md">H5&PC</a></td><td>韩国专业比价购物网站</td><td>h5版自适应宽度，引入backbone view渲染view，router没用，非webapp，native版直接嵌h5版</td></tr>
 <tr><th>emart mall</th><td><a href="dist/emartmall.md">H5&PC</a></td><td>专营食品和日用品，类似国内的1号店</td><td>h5版宽度自适应，类webapp但还是有差距，用cookie记录上一次的tab，汗！这个native也是嵌h5页面，设计得大气，能弥补点页面反应不流畅的问题:)</td></tr>
 </table>
