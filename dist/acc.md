@@ -4,10 +4,15 @@
 
 2个月前，无线业务改版视觉风格和业务内容参考韩国电商，会点韩语看着无违和感，索性就翻译了[几大韩国电商网站](https://github.com/miaojing/KoreaSite/)。在翻http://m.daum.net/的排行榜模块时，大部分词汇看不懂，就随手复制到google翻译，翻译出来一句很顺畅的话，额，明明只复制了一个词，竟然能构成一句话，发现原来复制后粘贴板上多了几个词。
 ![](http://gtms01.alicdn.com/tps/i1/T1S6q4FdheXXXfXYUc-386-451.png)
+
+
 ![](http://gtms02.alicdn.com/tps/i2/T1k3y7FlJXXXaenoEl-846-154.png)
 
 真相在源码里面：
+
 ![](http://gtms03.alicdn.com/tps/i3/T1nPC3Fe0gXXXaYiHl-703-260.png)
+
+
 ![](http://gtms04.alicdn.com/tps/i4/T1L.9MFodgXXXIBVn3-411-176.png)
 
 
