@@ -14,8 +14,9 @@
 ## 其他网站
 <table>
 <tr><th>名称</th><th>备注</th></tr>
-<tr><th><a href="http://www.11st.co.kr/">11ST</a></th><td>(upgrade your life)</td></tr>
-<tr><th><a href="http://www.auction.co.kr/">aution옥션</a></th><td></td></tr>
+<tr><th><a href="http://www.11st.co.kr/">11ST</a></th><td>(upgrade your life) 11号街(11st.co.kr)是韩国SK电信开设的网上购物中心，提供种类丰富的产品，如服装、居家用品、电影音乐、数码手机、家电等等</td></tr>
+<tr><th><a href="http://www.cjmall.com/">CJ mall</a></th><td>希杰财团旗下电商平台</td></tr>
+<tr><th><a href="http://www.auction.co.kr/">auction옥션</a></th><td></td></tr>
 <tr><th><a href="http://www.gsshop.com/index.gs">GS SHOP</a></th><td>PC首页支持宽窄屏响应</td></tr>
 <tr><td><a href="http://www.nsmall.com/">NS홈쇼핑</a></td><td></td></tr>
 <tr><td><a href="http://www.akmall.com/">AKmall</a></td><td></td></tr>
