@@ -14,7 +14,7 @@
 
 ![](http://gtms03.alicdn.com/tps/i3/T1nPC3Fe0gXXXaYiHl-703-260.png)
 
-看上面对screen_out的处理就知道了，特意隐藏该元素，用iphone下的voiceover读出来的效果也是一个完整的句子。
+看上面对screen_out的处理就知道了，特意隐藏该元素，这种做法记得某本html基础的书上也有类似的demo，但真正在产品中还是没用过；试了下用iphone下的voiceover读出来的效果也是一个完整的句子。
 
 ![](http://gtms04.alicdn.com/tps/i4/T1L.9MFodgXXXIBVn3-411-176.png)
 
