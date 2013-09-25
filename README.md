@@ -15,17 +15,17 @@
 <table>
 <tr><th>名称</th><th>备注</th></tr>
 <tr><th><a href="http://www.11st.co.kr/">11ST</a></th><td>C2C NO.3 (upgrade your life) 11号街(11st.co.kr)是韩国SK（韩国第三大跨国企业）电信开设的网上购物中心，提供种类丰富的产品，如服装、居家用品、电影音乐、数码手机、家电等等</td></tr>
-<tr><td><a href="http://www.interpark.com/">interpark</a></td><td>B2C NO1</td></tr>
+<tr><td><a href="http://www.interpark.com/">interpark</a></td><td>B2C NO1 1996年，通讯公司独立出来的</td></tr>
 <tr><td><a href="http://www.gsshop.com/index.gs">GS SHOP</a></td><td>B2C NO3</td></tr>
 
 <tr><th><a href="http://www.auction.co.kr/">auction옥션</a></th><td>Auction是韩国综合性购物网站,韩国历史上首家购物网站，已被Ebay收购</td></tr>
-<tr><th><a href="http://www.cjmall.com/">CJ mall</a></th><td>B2C NO6 希杰集团（食品&饮食服务、家庭购物&物流、生物制药&基础设施、娱乐&媒体）旗下电商平台</td></tr>
+<tr><th><a href="http://www.cjmall.com/">CJ mall</a></th><td>B2C NO6 希杰集团（食品&饮食服务、家庭购物&物流、生物制药&基础设施、娱乐&媒体）旗下电商平台;视觉设计不错</td></tr>
 <tr><th><a href="http://www.gsshop.com/index.gs">GS SHOP</a></th><td>PC首页支持宽窄屏响应</td></tr>
-<tr><td><a href="http://www.nsmall.com/">NS홈쇼핑</a></td><td></td></tr>
-<tr><td><a href="http://www.akmall.com/">AKmall</a></td><td></td></tr>
 <tr><td><a href="http://mall.shinsegae.com/main/initMallMain.do">新世界商城</a></td><td>新世界百货 B2C NO.5 </td></tr>
 <tr><td><a href="http://www.lotteimall.com/">乐天mall</a></td><td>乐天百货 B2C NO4</td></tr>
 <tr><th><a href="http://www.coupang.com/">coupang</a></th><td>韩国团购网站(color your days!)</td></tr>
+<tr><td><a href="http://www.nsmall.com/">NS홈쇼핑</a></td><td></td></tr>
+<tr><td><a href="http://www.akmall.com/">AKmall</a></td><td></td></tr>
 </table>
 
 # 小评下 
