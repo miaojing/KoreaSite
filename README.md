@@ -24,7 +24,7 @@
 <tr><td><a href="http://www.nsmall.com/">NS홈쇼핑</a></td><td></td></tr>
 <tr><td><a href="http://www.akmall.com/">AKmall</a></td><td></td></tr>
 <tr><td><a href="http://mall.shinsegae.com/main/initMallMain.do">新世界商城</a></td><td>新世界百货 B2C NO.5 </td></tr>
-<tr><td><a href="http://www.lotteimall.com/">乐天mall</a></td><td>乐天百货 B2C</td></tr>
+<tr><td><a href="http://www.lotteimall.com/">乐天mall</a></td><td>乐天百货 B2C NO4</td></tr>
 <tr><th><a href="http://www.coupang.com/">coupang</a></th><td>韩国团购网站(color your days!)</td></tr>
 </table>
 
